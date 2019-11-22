@@ -38,3 +38,4 @@ ML and DL labs implemented from scratch in Python
 
 ## Ressources:
 - Numpy ressources
+- Keras
