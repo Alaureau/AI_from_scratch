@@ -1,6 +1,14 @@
 # AI_from_scratch
 ML and DL labs implemented from scratch in Python
 
+**TODO** : 
+- Update Status and Description
+- Add Q-Learning
+- Add Missing implementations
+- Modify notebooks so as to use python Class
+- Add more /Check comments in notebooks
+- Add Requirements/ Tutorial to install necessary tools
+
 ## Deep Learning from scratch:
 ### DL:
 
